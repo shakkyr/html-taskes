@@ -1,0 +1,21 @@
+#outer {
+    width: 100px;
+    height: 100px;
+    background: darkcyan;
+    margin: 50px;
+    }
+    #inner {
+    width: 50px;
+    height: 50px;
+    background: lightgreen;
+    position: relative;
+    
+    z-index: 1;
+    
+
+   
+    }
+    #outer p{
+        font-size: 8px;
+        padding:10px;;
+    }

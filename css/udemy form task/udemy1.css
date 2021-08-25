@@ -1,0 +1,41 @@
+body{
+    background: #2c4068;
+}
+a{
+    text-decoration:none;
+}
+
+#container{
+    position: relative;
+    background: white;
+    max-width: 400px;
+    height:700px;
+    margin: 30px auto;
+    line-height: 1.8;
+    padding:15px;
+    
+    
+}
+h1,h4{
+    text-align: center;
+    
+}
+
+.form-group{
+    margin-top:15px;
+}
+
+label{
+    display: block;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border: #ddd 1px solid;
+    display: block;
+}
+
+footer{
+    color:white;
+    text-align: center;
+}
